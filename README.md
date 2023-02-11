@@ -1,2 +1,2 @@
 # PHP
-Redirect php to another page
+Redirect html to Php another page
